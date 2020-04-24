@@ -422,7 +422,27 @@ data316=pd.read_csv("datasRL/20200408/85293695R2.csv",index_col=1)
 
 ## 312個
 
-
+## 先生方↓
+data317=pd.read_csv("datasRL/Log/fujitaL1.csv",index_col=1)
+data318=pd.read_csv("datasRL/Log/fujitaL2.csv",index_col=1)
+data319=pd.read_csv("datasRL/Log/fujitaR1.csv",index_col=1)
+data320=pd.read_csv("datasRL/Log/fujitaR2.csv",index_col=1)
+data321=pd.read_csv("datasRL/Log/koyamaL1.csv",index_col=1)
+data322=pd.read_csv("datasRL/Log/koyamaL2.csv",index_col=1)
+data323=pd.read_csv("datasRL/Log/koyamaR1.csv",index_col=1)
+data324=pd.read_csv("datasRL/Log/koyamaR2.csv",index_col=1)
+data325=pd.read_csv("datasRL/Log/koyanagiL1.csv",index_col=1)
+data326=pd.read_csv("datasRL/Log/koyanagiL2.csv",index_col=1)
+data327=pd.read_csv("datasRL/Log/koyanagiR1.csv",index_col=1)
+data328=pd.read_csv("datasRL/Log/koyanagiR2.csv",index_col=1)
+data329=pd.read_csv("datasRL/Log/nimuraL1.csv",index_col=1)
+data330=pd.read_csv("datasRL/Log/nimuraL2.csv",index_col=1)
+data331=pd.read_csv("datasRL/Log/nimuraR1.csv",index_col=1)
+data332=pd.read_csv("datasRL/Log/nimuraR2.csv",index_col=1)
+data333=pd.read_csv("datasRL/Log/suzukiL1.csv",index_col=1)
+data334=pd.read_csv("datasRL/Log/suzukiL2.csv",index_col=1)
+data335=pd.read_csv("datasRL/Log/suzukiR1.csv",index_col=1)
+data336=pd.read_csv("datasRL/Log/suzukiR2.csv",index_col=1)
 
 
 def ffts(array, number_tree):
